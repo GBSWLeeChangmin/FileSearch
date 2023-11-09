@@ -1,0 +1,7 @@
+.ppt
+.xls
+.xlsx
+.pptx
+.hwpx
+.hwp
+.pdf
